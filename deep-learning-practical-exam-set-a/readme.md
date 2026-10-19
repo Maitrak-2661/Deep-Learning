@@ -514,7 +514,7 @@ No. Every step runs on a CPU in a few minutes.
 
 ## 🎥 Video Walkthrough
 
-📹 **Watch here:** [PASTE_YOUR_VIDEO_URL_HERE](PASTE_YOUR_VIDEO_URL_HERE)
+📹 **Watch here:** https://www.loom.com/share/2ebd75d5252748dfa752efb04983d3e1
 
 A 5 to 10 minute screen recording with my face on camera, covering each model, its training curves and my interpretation of the results.
 
